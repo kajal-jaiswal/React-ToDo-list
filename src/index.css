@@ -1,0 +1,654 @@
+/* *{margin: 0; padding: 0; box-sizing: border-box; background-color:aquamarine;} */
+
+/* .heading{
+    color:black;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: bold;
+    text-shadow:0px 2px 4px #ffe9cf;
+    margin: 70px 0;
+    font-family: 'Rubik Moonrocks', cursive;
+
+
+}
+.img_div{
+    display: flex;
+    justify-content: center;
+}
+
+.img_div img{
+    width: 250px;
+    height: 300px;
+
+} */
+
+/*//! ##################################################################### */
+/* PROJECT 3 PART */
+/* body {
+    background-color:aquamarine;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0%;
+    font-family:'Rubik Moonrocks', cursive ;
+
+
+}
+div{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+h1{
+    padding: 20px 20px;
+    background-color: #ffe9c5;
+    color: #fa9191;
+    border-radius: 20px;
+}
+span{
+    color: #eb6383;
+} *
+
+/* //!############################################################################# */
+
+/*NETFLIX CARD PROJECT CSS */
+/* *{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: #d2dbdd;
+}
+
+.heading_style{
+  padding: 30px 0;
+  text-align: center;
+  font-family: "Raleway" ,sans-serif;
+  text-transform: uppercase; 
+  font-size: 13px;
+  letter-spacing: 2px;
+  font-weight: 500;
+   color: #868686; 
+  color:black ;
+  background-color: #fff;
+  font-size: 1.5rem;
+  margin-bottom: 30px;
+  
+}
+.slot_inner{
+  padding: 30px 0;
+  text-align: center;
+  font-family: "Raleway" ,sans-serif;
+  text-transform: uppercase; 
+  font-size: 5px;
+  letter-spacing: 2px;
+  font-weight: 500;
+  color: #868686;
+  color:black ;
+  background-color: #fff;
+  font-size: 1.5rem;
+  margin-bottom: 30px;
+  
+}
+
+.cards{
+  width: 100%;
+  height: auto;
+}
+
+.card{
+  margin: 7%;
+  transition: all 0.4s cubic-bezier(0.175, 0.885, 0, 1);
+  background-color: #fff;
+  width: 19.25%;
+  border-radius: 16px;
+  box-shadow: 0px 13px 10px -7px rgba(0, 0, 0, 0.1);
+  float: left;
+  
+}
+
+
+ .card:hover{
+  transform: translateY(-50px);
+}
+img{
+    width: 295px;
+    height: 320px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+.card__img{
+  width: 100%;
+  height: 235px;
+  border-top-left-radius: 12px;
+  
+}
+.card__info{
+  background-color: #fff;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+  padding: 16px 24px 24px 24px;
+  
+}
+.card__category{
+  font-family: "Raleway" ,sans-serif;
+  text-transform: uppercase;
+  font-size: 13px;
+  letter-spacing: 2px;
+  font-weight: 500;
+  color: #868686;
+  background-color: #fff;
+  
+  
+}
+h3{
+  margin-top: 5px;
+  margin-bottom: 10px;
+  font-family: "Raleway" ,sans-serif;
+  background-color:#fff !important;
+  text-transform: capitalize !important;
+}
+
+button{
+  padding: 5px 8px;
+  font-family: "Raleway" ,sans-serif;
+  text-transform: uppercase;
+  font-size: 13px;
+  letter-spacing: 2px;
+  font-weight: 500;
+  color: #868686;
+  background: #fff;
+  outline: none;
+  border: 1.5px solid black;
+  cursor: pointer;
+  
+  
+}
+
+@media(max-width:786) {
+  .card{
+    float: none;
+    margin: 5%;
+    width: 50%;
+  }
+   */
+/* }  */
+
+/*//!###########################################################################################################
+
+/* *{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: #d2dbdd;
+}
+
+div{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+button{
+  padding: 15px 20px;
+  background: #9b59b6;
+  color: white;
+  border: 2px solid #ecf0f1;
+  outline: none;
+  border-radius: 5px;
+  text-transform: uppercase;
+  cursor: pointer;
+
+
+}  */
+
+/* #///////////////////////////////////////////////////// */
+
+/* //!forms css */
+
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:opsz,wght@8..144,100;8..144,400&family=Rubik+Moonrocks&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&family=Roboto+Serif:opsz,wght@8..144,100;8..144,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&family=Raleway:wght@100&family=Roboto+Serif:opsz,wght@8..144,100;8..144,400&display=swap');
+
+
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  background-color: azure;
+  font-family:'Josefin Sans',"Arial Narrow", sans-serif; ;
+}
+div{
+  width: 100%;
+  height: 100vh;
+  background: #8e44ad;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+h1{
+  color: white;
+  background-color: transparent;
+  text-shadow: 0 2px 2px black;
+}
+input{
+  width: 50%;
+  padding: 10px 20px;
+  border: none;
+  outline: none;
+  margin: 20px 0;
+  text-align: center;
+}
+button{
+  line-height: 24px;
+  padding: 0 20px;
+  background: #9b59b6;
+  color: white;
+  border: 2px solid #ecf0f1;
+  outline: none;
+  border-radius: 5px;
+  cursor:pointer;
+
+}
+
+ /* FINAL LOGIN FORM */
+
+/* * {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: #d2dbdd;
+  font-family: "Raleway", "Arial Narrow", sans-serif;
+}
+
+form {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  background: #8e44ad;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  color: white;
+  background: transparent;
+  text-shadow: 0 2px 2px black;
+}
+
+input {
+  width: 50%;
+  padding: 10px 20px;
+  border: none;
+  outline: none;
+  margin: 20px 0;
+  text-align: center;
+  background-color: transparent;
+}
+button {
+  line-height: 24px;
+  padding: 0 20px;
+  background: #9b59b6;
+  color: white;
+  border: 2px solid #ecf0f1;
+  outline: none;
+  border-radius: 5px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+p {
+  background: transparent;
+} */
+
+/* //!FINAL TO DO LIST CSS */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Raleway", "Arial Narrow", Arial, sans-serif;
+}
+.main_div {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  background: rgb(91, 39, 81);
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.center_div {
+  width: 25%;
+  height: 80vh;
+  background-color: #f4f4f4;
+  box-shadow: 5px 5px 25px -5px rgba(0, 0, 0, 0.5);
+  border-radius: 15px;
+}
+h1 {
+  color: white;
+  background-color: rgb(91, 39, 81);
+  padding: 6px 0 2px 0;
+  margin-bottom: 10px;
+  box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+}
+
+input {
+  text-align: center;
+  height: 30px;
+  top: 10px;
+  border: none;
+  background: transparent;
+  font-size: 20px;
+  font-weight: 500;
+  width: 60%;
+  border-bottom: 2px solid #332543;
+  outline: none;
+}
+
+button {
+  min-height: 40px;
+  width: 40px;
+  border-radius: 50px;
+  color: transparent;
+  background-color: #3a153a;
+  color: white;
+  font-size: 40px;
+  border: none;
+  outline: none;
+  margin-left: 10px;
+  box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+}
+
+button:hover {
+  background-color: #819095;
+}
+ol {
+  margin-top: 30px;
+}
+
+ol li {
+  padding-left: 0px;
+  text-align: left;
+  font-size: 20px;
+  font-weight: 500;
+  min-height: 40px;
+  display: flex;
+  align-items: center;
+  color: #6f246b;
+  text-transform: capitalize;
+}
+.todo_style {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  align-items: center;
+}
+
+.todo_style .fa-solid {
+  width: 20px;
+  height: 20px;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  background-color: #030203;
+  border-radius: 50%;
+  margin: 0 15px 0 35px;
+  color: aliceblue;
+  box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+}
+
+.todo_style .fa-solid:hover {
+  background-color: crimson;
+}
+
+.todo_style .fa-solids:hover .list_style {
+  color: crimson;
+}
+
+@media (max-width: 786px) {
+  .center_div {
+    width: 55%;
+  }
+
+  .todo_style .fa-solid {
+    margin: 0 15px 0 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  button {
+    margin-left: 5px;
+    min-height: 40px;
+    width: 40px;
+    color: #fff;
+    font-size: 30px;
+  }
+}
+
+/* //!FINAL INCREAMENT DECREAMENT PROJECT CSS USING MATERIAL UI ICONS */
+
+/* *{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Raleway","Arial Narrow" , Arial,sans-serif;
+}
+.main_div{
+
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  background: #b9f263;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  
+} 
+ .center_div{
+  width: 30%;
+  height: 60vh;
+  background-color: #f4f4f4;
+  box-shadow: 5px 5px 25px -5px rgba(0,0,0,0.5);  
+  border-radius: 15px;
+}  
+
+h1{
+  color: rgb(11, 11, 11);
+  font-size: 90px;
+  font-weight: 700;
+  padding: 20px 0 20px 0;
+  margin-top: 50px;
+  margin-bottom: 100px; 
+ box-shadow: 5px 5px 15px -5px rgba(0,0,0,0.3);
+
+ }
+
+.button1{
+  height: 80px;
+  width: 100px;
+
+
+  box-shadow: 5px 5px 15px -5px rgba(0,0,0,0.3);
+  cursor: pointer; 
+
+
+}
+.button1:hover{
+  color: rgb(57, 230, 14);
+}
+.button2{
+  height: 80px;
+  width: 100px;
+
+  box-shadow: 5px 5px 15px -5px rgba(0,0,0,0.3);
+  cursor: pointer; 
+  
+}
+.button2:hover{
+
+  color:crimson;
+  
+} 
+*/
+
+/* //!KEEP NOTES CSS */
+
+/* @import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100&family=Roboto:wght@100;300&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Josefin Sans", sans-serif;
+  font-family: "Roboto", sans-serif;
+}
+
+.header {
+  width: 100%;
+  line-height: 100px;
+  background-color: #a0baec;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  padding-left: 50px;
+  color: rgb(5, 4, 4);
+  box-shadow: 5px 3px 15px -5px rgba(1, 1, 1, 0.3);
+}
+
+.main_note {
+  width: 500px;
+  padding: 15px 10px 5px 10px;
+  margin: 20px auto;
+}
+
+.my_notes h1 {
+  color: #18528b;
+}
+
+.my_notes p {
+  color: rgb(74, 73, 73);
+}
+
+form {
+  min-height: 50px;
+  color: #ecf0f1;
+  padding: 15px 10px 5px 10px;
+  box-shadow: 3px 5px 15px -5px rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+  position: relative;
+}
+
+input {
+  width: 100%;
+  line-height: 30px;
+  background: transparent;
+  border: none;
+  outline: none;
+  font-size: 1.5rem;
+  margin: 10px0;
+  font-weight: bold;
+}
+
+textarea {
+  width: 100%;
+  line-height: 30px;
+  background: transparent;
+  border: none;
+  outline: none;
+  font-size: 1rem;
+  margin: 10px 0;
+}
+
+.MuiButton-root {
+  width: 30px;
+  height: 50px;
+  position: absolute;
+  bottom: -28px;
+  left: 400px;
+  cursor: pointer;
+  background-color: #fff !important;
+  box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+  border-radius: 50% !important;
+}
+
+.MuiButton-root .plus_sign {
+  font-size: 45px !important;
+  font-weight: 900;
+  color: #6c7ef6d9;
+  cursor: pointer;
+  z-index: 222;
+  background: transparent;
+}
+
+.MuiButton-root:hover {
+  background: #919ff4 !important;
+}
+
+.MuiButton-root:hover .plus_sign {
+  color: #fff;
+  background: transparent;
+}
+
+.note {
+  background: #fff;
+  border-radius: 7px;
+  box-shadow: 02px 5px #ccc;
+  padding: 10px;
+  width: 240px;
+  margin: 16px;
+  float: left;
+}
+
+.note h1 {
+  font-size: 1.1em;
+  margin-bottom: 6px;
+}
+
+.notep {
+  font-size: 1.1em;
+  margin-bottom: 10px;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+.note .btn {
+  position: relative;
+  float: right;
+  margin-right: 10px;
+  color: #7c88f1;
+  border: none;
+  width: 50px;
+  height: 50px;
+  background: transparent;
+  cursor: pointer;
+  outline: none;
+  box-shadow: 3px 3px 15px -10px rgba(0, 0, 0, 0.3);
+  border-radius: 50%;
+}
+
+.deleteIcon {
+  width: 0.7em;
+  height: 0.7em;
+}
+
+.note .btn:hover {
+  background-color: #919ff4;
+}
+
+.note .btn:hover .deleteIcon {
+  color: #fff;
+}
+
+footer {
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+} */
